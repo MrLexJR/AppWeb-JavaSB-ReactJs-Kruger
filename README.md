@@ -13,7 +13,7 @@ En el primer directorio esta el Backend el cual se debe ejecutar para la correct
 
 ```bash
 cd jr_proyect_k
-mvnw.cmd spring boot 
+mvnw.cmd spring-boot:run
 ```
 
 El segundo directorio esta la parte del Frontend el cual se inicializa por medio de siguiente comando dentro del directorio
