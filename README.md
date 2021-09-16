@@ -19,10 +19,11 @@ mvnw.cmd spring-boot:run
 
 El segundo directorio esta la parte del Frontend el cual se inicializa por medio de siguiente comando dentro del directorio
 
-``bash
+```bash
 cd jrk_reactjs
 npm start
 ```
+***
 
 ### Notas
 
